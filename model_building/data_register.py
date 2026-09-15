@@ -1,8 +1,9 @@
+
 import pandas as pd
 from huggingface_hub import HfApi, Repository
 import os
 
-RAW_PATH = "tourism_project/data/tourism.csv"  # path to the raw tourism.csv file inside the data folder
+RAW_PATH = "data/tourism.csv"  # path to the raw tourism.csv file inside the data folder
 DATASET_REPO_NAME = "tourism_dataset" # Name for the Hugging Face dataset repository
 
 # Load the raw dataset
