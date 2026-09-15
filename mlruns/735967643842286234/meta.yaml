@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/735967643842286234
+creation_time: 1789499314509
+experiment_id: '735967643842286234'
+last_update_time: 1789499314509
+lifecycle_stage: active
+name: tourism_package_prediction

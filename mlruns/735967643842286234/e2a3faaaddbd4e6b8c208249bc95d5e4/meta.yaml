@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/e2a3faaaddbd4e6b8c208249bc95d5e4/artifacts
+end_time: 1789499642308
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: e2a3faaaddbd4e6b8c208249bc95d5e4
+run_name: dazzling-smelt-377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499641700
+status: 3
+tags: []
+user_id: root

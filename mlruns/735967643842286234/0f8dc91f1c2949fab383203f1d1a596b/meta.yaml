@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/0f8dc91f1c2949fab383203f1d1a596b/artifacts
+end_time: 1789499681605
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 0f8dc91f1c2949fab383203f1d1a596b
+run_name: burly-sponge-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499681033
+status: 3
+tags: []
+user_id: root

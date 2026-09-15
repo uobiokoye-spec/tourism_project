@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/efaddf84c2194d8ea5429634c55753cd/artifacts
+end_time: 1789499585786
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: efaddf84c2194d8ea5429634c55753cd
+run_name: mercurial-fly-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499585213
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/f99d7777fb3c4c9fae5ea94a2c772c54/artifacts
+end_time: 1789499623441
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: f99d7777fb3c4c9fae5ea94a2c772c54
+run_name: salty-hound-567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499622839
+status: 3
+tags: []
+user_id: root

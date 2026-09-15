@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/c5b2e9dc57984b12a8c83bdb415ac0ee/artifacts
+end_time: 1789499629317
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: c5b2e9dc57984b12a8c83bdb415ac0ee
+run_name: sassy-shad-470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499628749
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/b16b542f30934929adf4f953a72e6db7/artifacts
+end_time: 1789499656888
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: b16b542f30934929adf4f953a72e6db7
+run_name: rumbling-grouse-72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499656288
+status: 3
+tags: []
+user_id: root

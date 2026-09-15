@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/392f38ac132240d69fc0b016531486e6/artifacts
+end_time: 1789499664966
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 392f38ac132240d69fc0b016531486e6
+run_name: skillful-vole-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499664375
+status: 3
+tags: []
+user_id: root

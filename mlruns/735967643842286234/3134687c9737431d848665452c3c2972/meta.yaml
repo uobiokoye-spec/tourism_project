@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/3134687c9737431d848665452c3c2972/artifacts
+end_time: 1789499626456
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 3134687c9737431d848665452c3c2972
+run_name: nervous-elk-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499625867
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/f0598b2238d94a92b9e7e6f31c26c852/artifacts
+end_time: 1789499675843
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: f0598b2238d94a92b9e7e6f31c26c852
+run_name: fortunate-hen-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499675265
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/aaa91e4c28b34c3db028690583d3ccf7/artifacts
+end_time: 1789499582235
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: aaa91e4c28b34c3db028690583d3ccf7
+run_name: carefree-horse-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499581652
+status: 3
+tags: []
+user_id: root

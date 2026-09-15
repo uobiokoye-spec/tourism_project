@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/1f4f465bd5ce438e849cbaa8e073d699/artifacts
+end_time: 1789499596676
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 1f4f465bd5ce438e849cbaa8e073d699
+run_name: selective-wolf-685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499596070
+status: 3
+tags: []
+user_id: root

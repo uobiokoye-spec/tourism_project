@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/8a62cc0c36694bf4a4a8cf7737b33833/artifacts
+end_time: 1789499595921
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 8a62cc0c36694bf4a4a8cf7737b33833
+run_name: clean-shoat-663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499595325
+status: 3
+tags: []
+user_id: root

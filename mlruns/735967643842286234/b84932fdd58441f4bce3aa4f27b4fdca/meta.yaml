@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/b84932fdd58441f4bce3aa4f27b4fdca/artifacts
+end_time: 1789499613336
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: b84932fdd58441f4bce3aa4f27b4fdca
+run_name: crawling-steed-139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499612746
+status: 3
+tags: []
+user_id: root

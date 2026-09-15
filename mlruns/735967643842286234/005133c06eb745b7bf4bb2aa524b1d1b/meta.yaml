@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/005133c06eb745b7bf4bb2aa524b1d1b/artifacts
+end_time: 1789499645190
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 005133c06eb745b7bf4bb2aa524b1d1b
+run_name: chill-mare-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499644608
+status: 3
+tags: []
+user_id: root

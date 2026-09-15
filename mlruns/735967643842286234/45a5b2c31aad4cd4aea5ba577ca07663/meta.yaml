@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/45a5b2c31aad4cd4aea5ba577ca07663/artifacts
+end_time: 1789499631463
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 45a5b2c31aad4cd4aea5ba577ca07663
+run_name: handsome-penguin-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499630894
+status: 3
+tags: []
+user_id: root

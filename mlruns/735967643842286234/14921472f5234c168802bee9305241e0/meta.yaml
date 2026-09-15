@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/14921472f5234c168802bee9305241e0/artifacts
+end_time: 1789499607428
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 14921472f5234c168802bee9305241e0
+run_name: overjoyed-hen-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499606835
+status: 3
+tags: []
+user_id: root

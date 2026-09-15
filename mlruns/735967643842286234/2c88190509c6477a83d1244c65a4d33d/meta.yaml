@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/2c88190509c6477a83d1244c65a4d33d/artifacts
+end_time: 1789499663476
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 2c88190509c6477a83d1244c65a4d33d
+run_name: able-doe-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499662872
+status: 3
+tags: []
+user_id: root

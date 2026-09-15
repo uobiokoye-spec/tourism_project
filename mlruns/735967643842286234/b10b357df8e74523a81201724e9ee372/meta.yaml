@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/b10b357df8e74523a81201724e9ee372/artifacts
+end_time: 1789499619048
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: b10b357df8e74523a81201724e9ee372
+run_name: rogue-owl-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499618471
+status: 3
+tags: []
+user_id: root

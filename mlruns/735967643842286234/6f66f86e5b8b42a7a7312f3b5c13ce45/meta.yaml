@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/6f66f86e5b8b42a7a7312f3b5c13ce45/artifacts
+end_time: 1789499660504
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 6f66f86e5b8b42a7a7312f3b5c13ce45
+run_name: bustling-deer-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499659935
+status: 3
+tags: []
+user_id: root

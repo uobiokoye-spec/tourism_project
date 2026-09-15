@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/5c8af30f95df4796ac5847adffa45e0c/artifacts
+end_time: 1789499592978
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 5c8af30f95df4796ac5847adffa45e0c
+run_name: dashing-boar-403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499592410
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/ef203bc1e16a49aa8e41cb8f80efe408/artifacts
+end_time: 1789499667213
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: ef203bc1e16a49aa8e41cb8f80efe408
+run_name: big-wolf-292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499666599
+status: 3
+tags: []
+user_id: root

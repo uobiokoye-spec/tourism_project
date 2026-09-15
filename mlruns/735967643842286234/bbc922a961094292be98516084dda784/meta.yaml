@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/bbc922a961094292be98516084dda784/artifacts
+end_time: 1789499645915
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: bbc922a961094292be98516084dda784
+run_name: stately-colt-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499645335
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/9042da2505bf4270a92c45ce6b2ec21b/artifacts
+end_time: 1789499636680
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 9042da2505bf4270a92c45ce6b2ec21b
+run_name: delicate-worm-523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499636032
+status: 3
+tags: []
+user_id: root

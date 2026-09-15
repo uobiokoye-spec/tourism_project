@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/a9e6389e9a8f46bebbdccc835be58d3b/artifacts
+end_time: 1789499614759
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: a9e6389e9a8f46bebbdccc835be58d3b
+run_name: fun-worm-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499614194
+status: 3
+tags: []
+user_id: root

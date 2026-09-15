@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/106f3c074cb44c4886a8be44cd57507d/artifacts
+end_time: 1789499609672
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 106f3c074cb44c4886a8be44cd57507d
+run_name: serious-jay-621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499609084
+status: 3
+tags: []
+user_id: root

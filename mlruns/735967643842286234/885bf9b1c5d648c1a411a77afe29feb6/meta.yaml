@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/885bf9b1c5d648c1a411a77afe29feb6/artifacts
+end_time: 1789499605971
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 885bf9b1c5d648c1a411a77afe29feb6
+run_name: bold-duck-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499605396
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/3e2da29b67fc4322970c2e9da7c1b803/artifacts
+end_time: 1789499678016
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 3e2da29b67fc4322970c2e9da7c1b803
+run_name: gaudy-hen-370
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499677446
+status: 3
+tags: []
+user_id: root

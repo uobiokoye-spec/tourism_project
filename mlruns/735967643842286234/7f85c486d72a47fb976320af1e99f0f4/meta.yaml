@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/7f85c486d72a47fb976320af1e99f0f4/artifacts
+end_time: 1789499677300
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 7f85c486d72a47fb976320af1e99f0f4
+run_name: resilient-jay-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499676727
+status: 3
+tags: []
+user_id: root

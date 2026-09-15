@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/53b125d12c494c4c9b3acdb92dd8e7b5/artifacts
+end_time: 1789499586643
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 53b125d12c494c4c9b3acdb92dd8e7b5
+run_name: beautiful-elk-66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499585975
+status: 3
+tags: []
+user_id: root

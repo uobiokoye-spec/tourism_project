@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/b07b6a25080a4b00ad40090fb4ffb580/artifacts
+end_time: 1789499605252
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: b07b6a25080a4b00ad40090fb4ffb580
+run_name: peaceful-finch-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499604683
+status: 3
+tags: []
+user_id: root

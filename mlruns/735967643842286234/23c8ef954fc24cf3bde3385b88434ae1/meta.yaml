@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/23c8ef954fc24cf3bde3385b88434ae1/artifacts
+end_time: 1789499638545
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 23c8ef954fc24cf3bde3385b88434ae1
+run_name: redolent-bee-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499637945
+status: 3
+tags: []
+user_id: root

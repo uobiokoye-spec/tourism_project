@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/88665254d5484efb8c42f8a126e4517c/artifacts
+end_time: 1789499604541
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 88665254d5484efb8c42f8a126e4517c
+run_name: loud-mouse-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499603972
+status: 3
+tags: []
+user_id: root

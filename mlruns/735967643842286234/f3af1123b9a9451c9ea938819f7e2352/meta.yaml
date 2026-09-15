@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/f3af1123b9a9451c9ea938819f7e2352/artifacts
+end_time: 1789499667966
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: f3af1123b9a9451c9ea938819f7e2352
+run_name: burly-ape-524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499667362
+status: 3
+tags: []
+user_id: root

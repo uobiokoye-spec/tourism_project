@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/096d8655fac44372b52f6d2c89db2e79/artifacts
+end_time: 1789499581508
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 096d8655fac44372b52f6d2c89db2e79
+run_name: enchanting-eel-936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499580893
+status: 3
+tags: []
+user_id: root

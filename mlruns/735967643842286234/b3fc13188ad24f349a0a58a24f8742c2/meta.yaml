@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/b3fc13188ad24f349a0a58a24f8742c2/artifacts
+end_time: 1789499632887
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: b3fc13188ad24f349a0a58a24f8742c2
+run_name: learned-cat-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499632317
+status: 3
+tags: []
+user_id: root

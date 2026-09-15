@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/2c52e900313f4e768b5d7253bca12654/artifacts
+end_time: 1789499683800
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 2c52e900313f4e768b5d7253bca12654
+run_name: amusing-wolf-162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499683227
+status: 3
+tags: []
+user_id: root

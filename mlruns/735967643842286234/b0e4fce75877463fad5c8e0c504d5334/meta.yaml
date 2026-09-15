@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/b0e4fce75877463fad5c8e0c504d5334/artifacts
+end_time: 1789499591557
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: b0e4fce75877463fad5c8e0c504d5334
+run_name: masked-hound-909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499590983
+status: 3
+tags: []
+user_id: root

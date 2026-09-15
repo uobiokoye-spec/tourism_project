@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/df40513e5ea940ba90c690af3a87b714/artifacts
+end_time: 1789499622691
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: df40513e5ea940ba90c690af3a87b714
+run_name: bemused-chimp-525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499622096
+status: 3
+tags: []
+user_id: root

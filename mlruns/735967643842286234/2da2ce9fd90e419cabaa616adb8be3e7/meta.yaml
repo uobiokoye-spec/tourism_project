@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/2da2ce9fd90e419cabaa616adb8be3e7/artifacts
+end_time: 1789499648094
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 2da2ce9fd90e419cabaa616adb8be3e7
+run_name: welcoming-wolf-77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499647515
+status: 3
+tags: []
+user_id: root

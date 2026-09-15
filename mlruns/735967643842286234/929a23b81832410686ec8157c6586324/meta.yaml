@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/929a23b81832410686ec8157c6586324/artifacts
+end_time: 1789499653140
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 929a23b81832410686ec8157c6586324
+run_name: clean-cat-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499652550
+status: 3
+tags: []
+user_id: root

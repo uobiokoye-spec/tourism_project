@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/cb02be1fdd724eff91f094ff24d1e8eb/artifacts
+end_time: 1789499661255
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: cb02be1fdd724eff91f094ff24d1e8eb
+run_name: peaceful-shrike-182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499660648
+status: 3
+tags: []
+user_id: root

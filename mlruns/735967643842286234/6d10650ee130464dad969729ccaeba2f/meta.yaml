@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/6d10650ee130464dad969729ccaeba2f/artifacts
+end_time: 1789499627175
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 6d10650ee130464dad969729ccaeba2f
+run_name: illustrious-eel-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499626600
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/dd92b74bd29d49268ee949726dddb7b7/artifacts
+end_time: 1789499582964
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: dd92b74bd29d49268ee949726dddb7b7
+run_name: mysterious-bass-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499582379
+status: 3
+tags: []
+user_id: root

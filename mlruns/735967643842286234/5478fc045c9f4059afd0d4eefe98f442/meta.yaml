@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/5478fc045c9f4059afd0d4eefe98f442/artifacts
+end_time: 1789499646649
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 5478fc045c9f4059afd0d4eefe98f442
+run_name: popular-pug-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499646064
+status: 3
+tags: []
+user_id: root

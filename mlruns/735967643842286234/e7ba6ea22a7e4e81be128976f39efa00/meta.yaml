@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/e7ba6ea22a7e4e81be128976f39efa00/artifacts
+end_time: 1789499683084
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: e7ba6ea22a7e4e81be128976f39efa00
+run_name: capable-penguin-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499682511
+status: 3
+tags: []
+user_id: root

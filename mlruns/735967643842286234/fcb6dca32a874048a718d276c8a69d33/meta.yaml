@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/fcb6dca32a874048a718d276c8a69d33/artifacts
+end_time: 1789499592267
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: fcb6dca32a874048a718d276c8a69d33
+run_name: fun-mouse-501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499591701
+status: 3
+tags: []
+user_id: root

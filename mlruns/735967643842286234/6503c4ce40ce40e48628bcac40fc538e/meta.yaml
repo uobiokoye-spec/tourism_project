@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735967643842286234/6503c4ce40ce40e48628bcac40fc538e/artifacts
+end_time: 1789499588075
+entry_point_name: ''
+experiment_id: '735967643842286234'
+lifecycle_stage: active
+run_id: 6503c4ce40ce40e48628bcac40fc538e
+run_name: sincere-owl-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1789499587521
+status: 3
+tags: []
+user_id: root
