@@ -30,7 +30,7 @@ print(df["ProdTaken"].value_counts())
 try:
     hf_api = HfApi(token=os.environ.get("HF_TOKEN"))
     hf_api.create_repo(repo_id=DATASET_REPO_NAME, repo_type="dataset", exist_ok=True)
-    
+
     temp_csv_path = "temp_tourism.csv"
     df.to_csv(temp_csv_path, index=False)
     hf_api.upload_file(
