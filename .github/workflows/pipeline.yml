@@ -19,7 +19,7 @@ jobs:
         run: |
           python -m tourism_project.model_building.prep
       - name: Upload Data Splits
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v3
         with:
           name: data-splits
           path: |
@@ -32,9 +32,9 @@ jobs:
     needs: data-prep
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
       - name: Download Data Splits
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v3
         with:
           name: data-splits
       - name: Install Dependencies
